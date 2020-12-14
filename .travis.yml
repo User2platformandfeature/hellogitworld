@@ -1,2 +1,10 @@
 sudo: false
 language: java
+notifications:
+
+webhooks:
+
+- https://microsoft.webhook.office.com/webhookb2/720d390a-a083-4163-8af4-353551649a7b@72f988bf-86f1-41af-91ab-2d7cd011db47/TravisCI/69f3a9da0aa14d6fb77b1daccef3bb8c/decaae79-5e19-4f10-ae7d-8d5adb872884 
+
+- https://outlook.office.com/webhook/defc5389-8acd-433a-8622-19d35ead4f5b@46e6803e-2aaf-42ea-8122-36858198d57e/TravisCI/ef3d95b5fd2042cb893a9e16d4311b65/1e028634-679d-49a6-99a7-cfa6eea83290
+
